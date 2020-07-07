@@ -1,0 +1,2 @@
+rootProject.name='MBTI_T.M.I'
+include ':app'
